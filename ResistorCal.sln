@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResistorCal", "ResistorCal\ResistorCal.csproj", "{F420FF17-6603-4523-9B2A-189054B06FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResistanceCal.Tests", "ResistanceCal.Tests\ResistanceCal.Tests.csproj", "{047328A0-09B5-4B71-972E-9C0270F60F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResistorCal.RepositoryLayer", "ResistorCal.RepositoryLayer\ResistorCal.RepositoryLayer.csproj", "{567A73F6-496F-440B-B1B8-216DD3BF837E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResistorCal.Util", "ResistorCal.Util\ResistorCal.Util.csproj", "{5F506008-D4B0-40F5-B329-E3AE203E0C59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F420FF17-6603-4523-9B2A-189054B06FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F420FF17-6603-4523-9B2A-189054B06FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F420FF17-6603-4523-9B2A-189054B06FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F420FF17-6603-4523-9B2A-189054B06FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{047328A0-09B5-4B71-972E-9C0270F60F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047328A0-09B5-4B71-972E-9C0270F60F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047328A0-09B5-4B71-972E-9C0270F60F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047328A0-09B5-4B71-972E-9C0270F60F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567A73F6-496F-440B-B1B8-216DD3BF837E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567A73F6-496F-440B-B1B8-216DD3BF837E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567A73F6-496F-440B-B1B8-216DD3BF837E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567A73F6-496F-440B-B1B8-216DD3BF837E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F506008-D4B0-40F5-B329-E3AE203E0C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F506008-D4B0-40F5-B329-E3AE203E0C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F506008-D4B0-40F5-B329-E3AE203E0C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F506008-D4B0-40F5-B329-E3AE203E0C59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
